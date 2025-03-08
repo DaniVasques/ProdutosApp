@@ -1,0 +1,21 @@
+﻿
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver_container
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Coti@2025
+    ports:
+      - "1434:1433"
+    networks:
+      - sql_network
+    volumes:
+      - sql_data:/var/opt/mssql
+
+networks:
+  sql_network:
+    driver: bridge
+
+volumes:
+  sql_data:
