@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5UXySrzSkU=",
+  "dgSpecHash": "BxSaAQ7fMgA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
+  "projectFilePath": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti Csharp\\ProjetoAula07,08,09 e 10\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vasqu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\vasqu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

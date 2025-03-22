@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ProdutosApp.Repositories;
 
 namespace ProdutosApp.Controllers
 {
@@ -10,7 +11,11 @@ namespace ProdutosApp.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok();
+            var categoriaRepository = new CategoriaRepository();
+
+            var categorias = categoriaRepository.Consultar();
+
+            return Ok(categorias);
         }
     }
 }

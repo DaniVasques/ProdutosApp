@@ -4449,11 +4449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
+      "projectUniqueName": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti Csharp\\ProjetoAula07,08,09 e 10\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
       "projectName": "ProdutosApp",
-      "projectPath": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
+      "projectPath": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti Csharp\\ProjetoAula07,08,09 e 10\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
       "packagesPath": "C:\\Users\\vasqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\obj\\",
+      "outputPath": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti Csharp\\ProjetoAula07,08,09 e 10\\ProdutosApp\\ProdutosApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

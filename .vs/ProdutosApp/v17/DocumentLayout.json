@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\",
+  "WorkspaceRootPath": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti Csharp\\ProjetoAula07,08,09 e 10\\ProdutosApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\vasqu\\onedrive\\documentos\\coti c#\\projetoaula07,08\\produtosapp\\produtosapp\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\vasqu\\onedrive\\documentos\\coti c#\\projetoaula07,08\\produtosapp\\produtosapp\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\vasqu\\onedrive\\documentos\\coti c#\\projetoaula07,08\\produtosapp\\produtosapp\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\vasqu\\onedrive\\documentos\\coti c#\\projetoaula07,08\\produtosapp\\produtosapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\vasqu\\onedrive\\documentos\\coti c#\\projetoaula07,08\\produtosapp\\produtosapp\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\vasqu\\onedrive\\documentos\\coti csharp\\projetoaula07,08,09 e 10\\produtosapp\\produtosapp\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\vasqu\\onedrive\\documentos\\coti c#\\projetoaula07,08\\produtosapp\\produtosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{409E9805-961B-43F2-8A69-477820441519}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Entities\\Produto.cs",
-              "RelativeDocumentMoniker": "ProdutosApp\\Entities\\Produto.cs",
-              "ToolTip": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Entities\\Produto.cs",
-              "RelativeToolTip": "ProdutosApp\\Entities\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:34:27.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Entities\\Categoria.cs",
-              "RelativeDocumentMoniker": "ProdutosApp\\Entities\\Categoria.cs",
-              "ToolTip": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Entities\\Categoria.cs",
-              "RelativeToolTip": "ProdutosApp\\Entities\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:34:09.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\docker-compose.yml",
-              "RelativeDocumentMoniker": "ProdutosApp\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\docker-compose.yml",
-              "RelativeToolTip": "ProdutosApp\\docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-03-08T19:28:28.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Controllers\\ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti Csharp\\ProjetoAula07,08,09 e 10\\ProdutosApp\\ProdutosApp\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti Csharp\\ProjetoAula07,08,09 e 10\\ProdutosApp\\ProdutosApp\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "ProdutosApp\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:22:12.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "ProdutosApp\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "ProdutosApp\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:15:42.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Program.cs",
-              "RelativeDocumentMoniker": "ProdutosApp\\Program.cs",
-              "ToolTip": "C:\\Users\\vasqu\\OneDrive\\Documentos\\Coti c#\\ProjetoAula07,08\\ProdutosApp\\ProdutosApp\\Program.cs",
-              "RelativeToolTip": "ProdutosApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T17:20:17.649Z",
+              "WhenOpened": "2025-03-22T20:32:24.106Z",
               "EditorCaption": ""
             }
           ]
